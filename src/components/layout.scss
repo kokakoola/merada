@@ -1,0 +1,10 @@
+//Here you can customize bootstrap
+$primary: #0d1d39;
+$secondary: #a9eb00;
+@import "~bootstrap/scss/bootstrap";
+@import "./fonts";
+
+body {
+  font-family: "Muller";
+  color: $primary;
+}
